@@ -1,4 +1,4 @@
-# Android Studio Coding Project
+# Android-, Javaohjelmointi-course
 
 This project was coded in Java in Android Studio and was for my Android-, Javaohjelmointi-course. 
 
