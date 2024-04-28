@@ -1,13 +1,13 @@
 # Android Studio Coding Project
 
-Welcome to my Android application project! This project is a collection of various functions implemented using Java in Android Studio. Below is a brief overview of the functionalities included in this application.
+This project was coded in Java in Android Studio and was for my Android-, Javaohjelmointi-course. 
 
-## Functionalities:
+## Main Functionalities:
 
-1. **Small Game**: Enjoy a simple game integrated into the application.
-2. **Location Services**: Get your current location and convert it into an address.
-3. **Airplane Mode Control**: Toggle airplane mode on or off with a convenient pop-up.
-4. **Timer**: Utilize a timer feature for various tasks.
+1. **Guess-Game**: Simple guessing game.
+2. **Location Services**: Get your current location from your phone and convert it into an address.
+3. **Airplane Mode Pop-Up**: Airplane mode pop-up comes on the screen when airplane is toggled.
+4. **Timer**: Timer feature.
 5. **YTJ Information Search**: Search for YTJ (Patentti- ja rekisterihallitus) information using the provided API.
 
 ## Technologies Used:
@@ -21,13 +21,8 @@ To use this application, simply download the project files and open them in Andr
 
 ## Additional Notes:
 
-- Make sure to have the necessary permissions enabled for location services and airplane mode control for full functionality of the application.
-- Ensure an active internet connection for accessing YTJ information.
+- Make sure to have the necessary permissions enabled for location services for full functionality of the application.
 
 ## Credits:
 
 This project utilizes the Patentti- ja rekisterihallitus API for YTJ information retrieval.
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
