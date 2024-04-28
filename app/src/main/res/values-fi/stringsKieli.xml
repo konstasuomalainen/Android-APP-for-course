@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">HelloJava</string>
+    <string name="title_activity_main3">PääActivity3</string>
+    <string name="title_home">Koti</string>
+    <string name="title_dashboard">Hallintapaneeli</string>
+    <string name="title_notifications">Ajastin</string>
+    <string name="text_apm_off">Lentokonetila päällä</string>
+    <string name="text_apm_on">Lentokonetila ei päällä</string>
+</resources>
